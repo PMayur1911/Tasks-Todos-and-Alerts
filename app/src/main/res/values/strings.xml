@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TodoMain</string>
+    <string name="trello_board">https://trello.com/b/SEZHESI0/todo-android-app</string>
+
+    <string name="editTaskKey">editTask</string>
+    <string name="updatedTaskKey">updatedTask</string>
+    <string name="taskPositionKey">taskPosition</string>
+    <string name="updateTaskPositionKey">updateTaskPosition</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contentDescFAB_TaskList">FAB for adding creating new task list</string>
+</resources>
